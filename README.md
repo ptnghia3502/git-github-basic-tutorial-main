@@ -6,7 +6,7 @@
 - [Reference](#reference)
 
 ## Description
-- This series covers the basics of Git/GitHub
+- This series cover the basics of Git/GitHub
 - Instructions for installing and using Git/GitHub
 - Suitable audience: everyone, more suitable for those who do not have knowledge of Git/GitHub
 - Expression Language: Vietnamese
